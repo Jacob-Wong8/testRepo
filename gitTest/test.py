@@ -7,4 +7,12 @@ print(" I will make a commit mesage in github so i know what i did")
 
 
 
-# I JUST WROTE NEW CODE HERE HAHAHAHAH
+
+
+
+
+
+a = 9
+
+for i in range(8):
+    print("hello" + i)
