@@ -9,10 +9,4 @@ print(" I will make a commit mesage in github so i know what i did")
 
 
 
-
-
-
-a = 9
-
-for i in range(8):
-    print("hello" + i)
+#this goes bye bye
